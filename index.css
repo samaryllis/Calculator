@@ -1,0 +1,19 @@
+* {
+  font-family: "Comic Neue", cursive;
+  color: crimson;
+}
+body {
+  background-color: papayawhip;
+}
+h1 {
+  font-family: "Amatic SC", cursive;
+  color: crimson;
+}
+h3 {
+  color: chocolate;
+  font-family: "Comic Neue", cursive;
+}
+input {
+  color: lightcoral;
+  background-color: moccasin;
+}
