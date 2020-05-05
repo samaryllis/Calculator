@@ -48,5 +48,9 @@ split1.addEventListener("input", splitValue);
 split2.addEventListener("input", splitValue);
 
 function splitValue(e) {
+  console.log(split2.value);
+  if (!split2.value || split2.value == 0) {
+    return;
+  }
   splitResult.textContent = Number(split1.value) / Number(split2.value);
 }
