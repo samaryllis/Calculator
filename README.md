@@ -3,6 +3,10 @@
 This is my first web project.  
 It's a calculator.
 
+### Project Demo available here:
+
+https://calculator-ams.netlify.app/
+
 ## How to set up Git (tips)
 
 Download Git for Windows  
